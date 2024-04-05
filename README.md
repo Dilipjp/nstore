@@ -64,8 +64,14 @@ This repository contains the source code for N Store, a shoe-selling application
 
 ## Use Case Diagram
 
-![Use Case Diagram](https://github.com/Dilipjp/nstore/blob/main/frontend/src/Components/Assets/user-case-diagram.jpg)
+![Use Case Diagram](https://github.com/Dilipjp/nstore/blob/main/frontend/src/Components/Assets/screenshots/user-case-diagram.jpg)
 
 ## Mind Map
 
-![Mind Map](https://github.com/Dilipjp/nstore/blob/main/frontend/src/Components/Assets/mind-map.png)
+![Mind Map](https://github.com/Dilipjp/nstore/blob/main/frontend/src/Components/Assets/screenshots/mind-map.png)
+
+## Screenshots
+
+![Screenshots](https://github.com/Dilipjp/nstore/blob/main/frontend/src/Components/Assets/screenshots/screen1.png)
+![Screenshots](https://github.com/Dilipjp/nstore/blob/main/frontend/src/Components/Assets/screenshots/screen2.png)
+![Screenshots](https://github.com/Dilipjp/nstore/blob/main/frontend/src/Components/Assets/screenshots/screen3.png)
