@@ -64,8 +64,8 @@ This repository contains the source code for N Store, a shoe-selling application
 
 ## Use Case Diagram
 
-![Use Case Diagram](path/to/use-case-diagram.png)
+![Use Case Diagram](../_nstore/frontend/src/Components/Assets/user-case-diagram.jpg)
 
 ## Mind Map
 
-![Mind Map](path/to/mind-map.png)
+![Mind Map](../_nstore/frontend/src/Components/Assets/mind-map)
